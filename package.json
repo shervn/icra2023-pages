@@ -2,7 +2,7 @@
   "name": "ivbs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shervn.github.io/icra-2023",
+  "homepage": "https://shervn.github.io/ivbs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
