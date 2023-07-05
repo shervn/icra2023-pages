@@ -12,7 +12,7 @@ function App() {
           <Label color='blue' as='a' href="mailto:shervin.dehghani[at]tum.de">
             <Icon name='mail' /> shervin.dehghani@tum.de
           </Label>
-          <Label color='red' as='a' href="https://arxiv.org/pdf/2301.07204.pdf">
+          <Label color='red' as='a' href="https://ieeexplore.ieee.org/document/10160372">
             <Icon name='copy' /> Paper
           </Label>
           {/* <Label as='a' href="">
