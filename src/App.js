@@ -1,5 +1,5 @@
 import './App.css';
-import { Container, Divider, Grid, Image, Icon, Header, Segment, Embed, Label } from 'semantic-ui-react'
+import { Container, Message, Divider, Grid, Image, Icon, Header, Segment, Embed, Label } from 'semantic-ui-react'
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <div>
         {/* <Container textAlign='center'> <h1>ColibriDoc</h1></Container> */}
         <Container textAlign='center'> <h1>Robotic Navigation for Subretinal Injection via <br></br> Intelligent Real-Time Virtual iOCT Volume Slicing</h1></Container>
+        <Message className='segmentHeader' textAlign='center'> <h4>IEEE International Conference on Robotics and Automation - ICRA 2023</h4></Message>
         <Container textAlign='center'> <h5>Shervin Dehghani, Michael Sommersperger, Peiyao Zhang <br></br> Alejandro Martin-Gomez, Benjamin Busam, Peter Gehlbach, Nassir Navab, M Ali Nasseri, Iulian Iordachita</h5>
 
           <Label color='blue' as='a' href="mailto:shervin.dehghani[at]tum.de">
